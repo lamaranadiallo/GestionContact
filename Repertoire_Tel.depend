@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1716801349 source:c:\users\dialo\desktop\formation vde\c++\repertoire_tel\main.cpp
+	<iostream>
+	<string>
+	"contact.h"
+	"gestionContact.h"
+
+1716790740 c:\users\dialo\desktop\formation vde\c++\repertoire_tel\contact.h
+	<string>
+
+1716814925 c:\users\dialo\desktop\formation vde\c++\repertoire_tel\gestioncontact.h
+	<iostream>
+	<vector>
+	<string>
+	"contact.h"
+
