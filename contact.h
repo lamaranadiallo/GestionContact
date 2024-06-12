@@ -2,6 +2,7 @@
 #ifndef __CONTACT__
 
 #define __CONTACT__
+
 #include<string>
 
 using namespace std;
