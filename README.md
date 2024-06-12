@@ -7,4 +7,4 @@
 | 2     | Afficher liste des contactes |
 | 3     | Rechercher un contacte       |
 | 4     | Supprimer un contacte        |
-| 5     | Quitter                      |
+| 5     | Quitter                      | 
