@@ -2,6 +2,10 @@
 #ifndef __CONTACT__
 
 #define __CONTACT__
+<<<<<<< HEAD
+=======
+
+>>>>>>> gestionRep
 #include<string>
 
 using namespace std;
