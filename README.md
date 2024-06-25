@@ -1,6 +1,8 @@
-## Bienvenu dans Gestionnaire de 
+## POO C++ 
 ***
+### Application sur la gestion d'un repertoire
 
+----------------------------------------
 |      Gestionnaire de contacte        |
 |:-------------------------------------|
 | 1     | Ajouter un contacte          |
